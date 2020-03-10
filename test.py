@@ -11,3 +11,4 @@ for i in range (len(m)-1,-1,-1):
     bintodec += int (m[i])*pow(2,j)
     j+=1
 print (bintodec)
+# ceci est un autre commentaire 
