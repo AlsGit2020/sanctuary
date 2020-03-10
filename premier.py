@@ -10,6 +10,6 @@ if compteur == nombre:
     
 if compteur < nombre :
     print (nombre, "  n'est pas un nombre premier")
-    j'ai apprecicer ce programes avec beaucoup de joie. merci
+    # j'ai apprecicer ce programes avec beaucoup de joie. merci
 
     # Commentaire dans branche1
