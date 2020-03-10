@@ -12,3 +12,4 @@ if compteur < nombre :
     print (nombre, "  n'est pas un nombre premier")
 
     # Commentaire dans branche1
+    j'ai apprecicer ce programes avec beaucoup de joie. merci
