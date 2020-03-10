@@ -10,3 +10,5 @@ if compteur == nombre:
     
 if compteur < nombre :
     print (nombre, "  n'est pas un nombre premier")
+
+    # Commentaire dans branche1
