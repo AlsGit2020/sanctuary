@@ -1,3 +1,4 @@
+# ceci est un commentaire
 binaire=input("Entrer le nombre binaire : ")
 m=[]
 for character in binaire:
